@@ -1,3 +1,17 @@
 theme: jekyll-theme-architect
 title: Oracle Cloud Content
-description: Learn cool things to do on Oracle Cloud
+description: Learn cool things to do with Oracle Cloud
+author: Victor Martin
+
+social-network-links:
+  email: "victor.martin.alvarez@oracle.com"
+  github: vmleon
+  twitter: victorilloleon
+  linkedin: victormartindeveloper
+share-links-active:
+  twitter: true
+  github: true
+  linkedin: true
+
+excerpt_length: 50
+feed_show_excerpt: true

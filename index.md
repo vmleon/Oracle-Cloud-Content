@@ -1,7 +1,8 @@
-## 0.1. Relevant Content Created
+## Relevant Content Created
 
 | Topic                                                                                                                                                                                 | Type         | Platform | Pillar                        | Author                                                                       | Date     | Level        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------- | ----------------------------- | ---------------------------------------------------------------------------- | -------- | ------------ |
+| [Oracle Virtual Lab Extend your application with advanced chat-bots](https://videohub.oracle.com/media/Oracle+Virtual+Lab+Extend+your+application+with+advanced+chat-bots/1_cu6qjkl9) | Hands-on Lab | OTube    | Database, Development         | [Victor Martin](https://www.linkedin.com/in/victormartindeveloper/)          | March 21 | Intermediate |
 | [A 5-minutes production-ready setup for your deep learning project](https://towardsdatascience.com/a-5-minutes-production-ready-setup-for-your-deep-learning-project-9ff860fc3c4b)    | Tutorial     | Medium   | Development                   | [Roberto Di Bella](ttps://www.linkedin.com/in/roberto-di-bella-9ba3b915b/)   | March 21 | Intermediate |
 | [A Cloud-Native database for your data science project](https://levelup.gitconnected.com/a-cloud-native-database-for-your-data-science-project-d55ed43ab9e7)                          | Tutorial     | Medium   | Development                   | [Roberto Di Bella](ttps://www.linkedin.com/in/roberto-di-bella-9ba3b915b/)   | March 21 | Intermediate |
 | [Conversation Designer on Oracle Digital Assistant](https://youtu.be/CwrRvlvINZ0)                                                                                                     | Tutorial     | Youtube  | Development                   | [Victor Martin](https://www.linkedin.com/in/victormartindeveloper/)          | March 21 | Beginner     |
@@ -36,7 +37,7 @@
 | [5 Reasons why Oracle Free Tier is better than your Raspberry Pi](https://medium.com/@roberto.di.bella/5-reasons-why-oracle-free-tier-is-better-than-your-raspberry-pie-277ac8cb37e3) | Tutorial     | Medium   | Operations                    | [Roberto Di Bella](https://www.linkedin.com/in/roberto-di-bella-9ba3b915b/)  | Mar 20   | Intermediate |
 | [Create Federated Users on Oracle Cloud](https://youtu.be/17H20JJX5y0)                                                                                                                | Tutorial     | Youtube  | Operations                    | [Victor Martin](https://www.linkedin.com/in/victormartindeveloper/)          | Feb 20   | Beginner     |
 
-## 0.2. Previous Created Content
+## Previous Created Content
 
 | Topic                                                                                                                                                                                                                                                                                       | Type     | Platform | Category    | Author                                                                      | Date |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | ----------- | --------------------------------------------------------------------------- | ---- |
